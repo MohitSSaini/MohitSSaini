@@ -16,7 +16,7 @@
 - 💬 Ask me about **Angular,Html,Css,javascript,Java**
 
 - 📫 How to reach me **mohit.saini09868@gmail.com**
-
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohit saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit saini" height="30" width="40" /></a>
