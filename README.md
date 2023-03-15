@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Saini</h1>
-<h1>This page is created with help of vishal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitssaini&label=Profile%20views&color=0e75b6&style=flat" alt="mohitssaini" /> </p>
 
